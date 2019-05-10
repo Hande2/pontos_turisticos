@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import PontoTuristico
+from .models import PontosTuristico
 
-admin.site.register(PontoTuristico)
+admin.site.register(PontosTuristico)
